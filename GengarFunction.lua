@@ -1,3 +1,5 @@
+-- thank you for rael for this
+-- modified by rileybeerblx
 local _env = getgenv()
 local GGFunctions = {}
 local mainDir: string = "https://raw.githubusercontent.com/OnyxIsCool/Network/refs/heads/main/"
@@ -541,5 +543,6 @@ function GGFunctions.Fly2(value, speed)
 end
 
 shared.GGFunctions = GGFunctions
+
 
 return GGFunctions
